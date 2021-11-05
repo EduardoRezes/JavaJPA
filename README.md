@@ -9,4 +9,5 @@ Curso realizado pelo Alura com JPA.
 * Saiba como mapear entidades que utilizam herança e chave composta
  
 Parte 1 - https://cursos.alura.com.br/course/persistencia-jpa-introducao-hibernate
+
 Parte 2 - https://cursos.alura.com.br/course/java-jpa-consultas-avancadas-performance-modelos-complexos
